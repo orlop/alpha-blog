@@ -1,8 +1,5 @@
 source 'https://rubygems.org'
 
-# test commit from RubyMine
-
-
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5'
 
